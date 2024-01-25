@@ -35,7 +35,7 @@ const main = async() => {
                 console.log('\n Informacion de la ciudad\n'.green);
                 console.log('Ciudad:', lugarSel.nombre);
                 console.log('Lat:', lugarSel.lat);
-                console.log('Lng:', lugarSel.lng);
+                console.log('Longitudddddd:', lugarSel.lng);
                 console.log('Temperatura:',clima.temp);
                 console.log('Mínima',clima.min);
                 console.log('Máxima:',clima.max);
